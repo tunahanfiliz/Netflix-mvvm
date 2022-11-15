@@ -29,7 +29,7 @@ class HomeViewController: UIViewController {
        
         let table = UITableView(frame: .zero,style: .grouped)
         table.register(CollectionViewTableViewCell.self, forCellReuseIdentifier: CollectionViewTableViewCell.identifier)
-        return table
+        return table//
         
     }()
     
