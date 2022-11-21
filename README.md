@@ -31,6 +31,6 @@
 14- UITabBarController <br/>
 15- Data was recorded with CoreData <br/>
 16- Bringing posters using SDWebImage <br/>
-17- UITableView, UITableViewCell  <br/>
+17- UITableView,UITableViewCell  <br/>
 18- Files are linked with the help of protocol <br/>
 
