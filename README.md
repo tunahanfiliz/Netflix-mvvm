@@ -23,6 +23,7 @@
 6- I did pagination while taking data. <br/>
 7- created request using page structure. <br/>
 8- UICollectionView. <br/>
+
 9- MVVM <br/>
 10- Protocol Orianted Programming <br/>
 11- String+Extension <br/>
