@@ -1,7 +1,7 @@
 # MovieApp-MVVM
 
 ## Pattern
-- MVVM <br>
+- MVVM design Pattern <br>
 
 ## Libraries
 - UIKit <br/>
