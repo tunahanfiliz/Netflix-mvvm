@@ -2,6 +2,7 @@
 
 ## Pattern
 - MVVM design Pattern <br>
+-
 
 ## Libraries
 - UIKit <br/>
