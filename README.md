@@ -1,4 +1,4 @@
-# MovieApp-MVVM
+# MovieApp
 
 ## Pattern
 - MVVM design Pattern <br>
